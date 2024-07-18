@@ -42,7 +42,7 @@
 
 - [ ] **Communication**
   - We publicly shared the names of the organizing committee for accountability: [Organizing Committee] (https://www.divaconf.com/organizasyon-ekibi)
-  - Communicated was maintained with attendees, speakers and staff before the event.
+  - Communication was maintained with attendees, speakers and staff before the event.
   - Presentation templates, logo files, and fonts were shared with speakers ahead of time for those who wished to customize their slides with Diva branding.
   - Online meetings were held with staff before the event, on-site duties were distributed ahead of time, and a WhatsApp group was used for easy communication during the event. 
   - A speakers & staff dinner was held, with numbers and food preferences collected ahead of time and details of the restaurant shared.
